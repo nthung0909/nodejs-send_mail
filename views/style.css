@@ -1,0 +1,9 @@
+.form{
+    position: fixed;
+    top:30px;
+    /*left: 33.33%;*/
+    left: 25%;
+}
+.ck-editor__editable_inline {
+    min-height: 400px;
+}
